@@ -108,6 +108,13 @@ body {
   margin:0 auto;
 }
 
+.auto-container2{
+  position:static;
+  max-width:1200px;
+  padding: 1px 0px;
+  margin:0 auto;
+}
+
 .small-container{
   max-width:680px;
   margin:0 auto;
@@ -2129,7 +2136,7 @@ div#mCSB_1_container{
 
 .pricing-section{
   position: relative;
-  padding: 150px 0px 100px 0px;
+  padding: 1px 0px 100px 0px;
   background: #fff;
 }
 
@@ -3249,7 +3256,7 @@ div#mCSB_1_container{
 .pricing-section.style-two{
   position: relative;
   background: transparent;
-  padding: 60px 0px 200px 0px;
+  padding: 2px 0px 20px 0px;
 }
 
 .pricing-section.style-two .upper-box .text{
@@ -3338,7 +3345,7 @@ div#mCSB_1_container{
 
 .pricing-section.style-two .tabs-content{
   position: relative;
-  margin: 0px 15px;
+  margin: 0px 1px;
 }
 
 .pricing-block-two.active_block .pricing-table{
@@ -3366,7 +3373,8 @@ div#mCSB_1_container{
 }
 
 .pricing-section.style-two .upper-box{
-  margin-bottom: 117px;
+  margin-bottom: 11
+  px;
 }
 
 .pricing-section.style-two .pattern-layer {

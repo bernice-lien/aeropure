@@ -7,7 +7,7 @@
 		var animateSpan			= jQuery('.animation_text_word');
 		
 			animateSpan.typed({
-				strings: [" ", "Heavy Metal", "Organic Solvents", "Oils and Dyes", "Pesticides"],
+				strings: [" ", "Heavy Metal", "Organic Solvents", "Oils and Dyes", "Pesticides", "Pharmaceutical"],
 				loop: true,
 				startDelay: 2,
 				backDelay: 3
