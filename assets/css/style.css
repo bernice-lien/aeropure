@@ -177,7 +177,7 @@ p{
   transition: all 500ms ease;
 }
 
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6,h7{
   position:relative;
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
@@ -2207,7 +2207,7 @@ div#mCSB_1_container{
   line-height: 26px;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
-  color: #3b3b3b;
+  color: #073763;
   cursor: pointer;
   transition: all 500ms ease;
 }
@@ -2230,27 +2230,36 @@ div#mCSB_1_container{
 
 .pricing-block-one .pricing-table .table-header h5{
   position: relative;
-  font-size: 17px;
+  font-size: 20px;
+  font-weight: bold;
   line-height: 25px;
   margin-bottom: 12px;
 }
 
 .pricing-block-one .pricing-table .table-header h2{
   position: relative;
-  font-size: 40px;
-  line-height: 50px;
-  font-weight: 700;
-  color: #3b3b3b;
-  margin-bottom: 5px;
+  display: inline-block;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 26px;
+  color: #ffffff;
 }
 
 .pricing-block-one .pricing-table .table-header a{
   position: relative;
   display: inline-block;
-  font-size: 17px;
+  font-size: 14px;
   font-family: 'Poppins', sans-serif;
   line-height: 26px;
   color: #848484;
+}
+.pricing-block-one .pricing-table .table-header h7{
+  position: relative;
+  display: inline-block;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 26px;
+  color: #ffffff;
 }
 
 .pricing-block-one .pricing-table .table-header{
