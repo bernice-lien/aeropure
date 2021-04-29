@@ -1727,7 +1727,7 @@ div#mCSB_1_container{
 .process-section{
   position: relative;
   overflow: hidden;
-  padding: 150px 0px 130px 0px;
+  padding: 0px 0px 130px 0px;
 }
 
 #content_block_02 .content-box .sec-title{
@@ -1848,7 +1848,7 @@ div#mCSB_1_container{
 .service-section{
   position: relative;
   background: #fff;
-  padding: 150px 0px 55px 0px;
+  padding: 1px 0px 5px 0px;
 }
 
 .service-section .sec-title{
@@ -2222,7 +2222,7 @@ div#mCSB_1_container{
   display: block;
   background: #fff;
   overflow: hidden;
-  padding: 60px 50px;
+  padding: 10px 50px;
   border-radius: 15px;
   box-shadow: 0 10px 30px 0px rgba(99, 119, 238, 0.2);
   z-index: 1;
@@ -2267,9 +2267,12 @@ div#mCSB_1_container{
   border-bottom: 1px dashed #e5e5e5;
 }
 
+.pricing-block-one .pricing-table .table-header2{
+  padding-bottom: 40px;
+}
 .pricing-block-one .pricing-table .table-content{
   position: relative;
-  padding: 45px 0px;
+  padding: 45px px;
 }
 
 .pricing-block-one .pricing-table .table-content ul li{
@@ -3295,6 +3298,11 @@ div#mCSB_1_container{
   position: relative;
   padding-bottom: 39px;
   border-bottom: 1px dashed #e5e5e5;
+}
+.pricing-block-two .pricing-table .table-header2{
+  position: relative;
+  padding-bottom: 39px;
+
 }
 
 .pricing-block-two .pricing-table .table-header .icon-box{
