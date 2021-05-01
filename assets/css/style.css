@@ -1,4 +1,19 @@
+ /* what laura added */
  
+ .logo {
+   max-width: 150px;
+ }
+
+
+ .bg-color-0{
+  background: #eef8fa !important;
+}
+
+.designation, .bread-crumb {
+  color: #1c4587;
+}
+
+
 /* Css For Detox */
 
 

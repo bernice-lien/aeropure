@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1274.65 313.31" style="enable-background:new 0 0 1274.65 313.31;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#A9D1DB;}
+	.st2{opacity:0.55;fill:#E8EFE4;}
+	.st3{fill:#D2E2CC;}
+	.st4{fill:#E8EFE4;}
+	.st5{opacity:0.21;fill:url(#SVGID_1_);stroke:url(#SVGID_2_);stroke-miterlimit:10;}
+	.st6{fill:#1C4587;}
+	.st7{font-family:'CenturyGothic-Bold';}
+	.st8{font-size:200px;}
+</style>
+<circle class="st0" cx="156.65" cy="156.65" r="156.15"/>
+<path class="st1" d="M17.91,229.47C10,214,10.31,211.78,6.66,201.54c-1.49-4.17,47.12,52.63,117.5,26.25
+	c99.52-37.3,161.39,18.55,156.65,24.23c-58.82,70.47-141.17,73.29-201.21,40.59C55.67,279.58,32.5,258.01,17.91,229.47z"/>
+<path class="st1" d="M138.45,213.27c9.86-21.1,97.23-34.33,165.04-3.37c-1.83,6.54-6.96,17.49-13.27,27.69
+	c-5.47,8.84-67.57-57.57-151.26-24.32"/>
+<path class="st2" d="M151.44,141.88c-20.18-15.21-41.39-28.04-64.43-27.97c-16.22,0.05-47.04,3.31-54.73,27.66
+	c-0.73,2.31,12.84-9.16,22.93-8.55c21.23,1.29,31.65,16.31,54.57,13.61C143.42,142.65,151.44,141.88,151.44,141.88z"/>
+<path class="st3" d="M309.7,123.05C287.3,23.53,182.88-25.69,90.07,24.48C63.72,38.72,29.6,63.7,70.45,47.16
+	c44.44-17.99,54.22-24.21,18.85-4.64c0,0-12.04,6.8-24,12.69C53.54,61,41.84,65.88,44.97,66.67c27.21,6.88,88.12-38.38,83.46-30.57
+	C118.5,52.76,47.01,73,57.2,73.7c9,0.62,10.12,3.52,25.83,0.31c25.11-5.13,65.14-21.35,70.78-24c10.57-4.96,69.71,27.52-11.77,14.98
+	c-24.72-3.8-57.86,17.96-25.07,14.52c32.79-3.44,71.16,35.46,97.76,16.43s45.08-25.9,75.21,9.4
+	C310.19,129.08,309.7,123.05,309.7,123.05z"/>
+<path class="st4" d="M308.66,129.96c-33.71-19.26-54.28-2.51-64.13,2.22c-15.67,7.52-70.39,19.26-108.23-5.96
+	s-76.13-19.56-100.89-3.36s30.26-53.44,86.68-34.71c37.99,12.61,60.49,19.91,71.46,17.66c16.36-3.36,65.93-18.44,72.76-15.36
+	C275.49,94.57,308.66,129.96,308.66,129.96z"/>
+<radialGradient id="SVGID_1_" cx="156.6529" cy="156.6529" r="156.1529" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.3726" style="stop-color:#FDFDFD"/>
+	<stop  offset="0.5069" style="stop-color:#F6F6F6"/>
+	<stop  offset="0.6026" style="stop-color:#EBEBEB"/>
+	<stop  offset="0.68" style="stop-color:#DADADA"/>
+	<stop  offset="0.7463" style="stop-color:#C4C4C4"/>
+	<stop  offset="0.805" style="stop-color:#A8A8A8"/>
+	<stop  offset="0.8581" style="stop-color:#888888"/>
+	<stop  offset="0.9069" style="stop-color:#626262"/>
+	<stop  offset="0.9523" style="stop-color:#373737"/>
+	<stop  offset="0.9926" style="stop-color:#090909"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</radialGradient>
+<radialGradient id="SVGID_2_" cx="156.6529" cy="156.6529" r="156.6529" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</radialGradient>
+<circle class="st5" cx="156.65" cy="156.65" r="156.15"/>
+<text transform="matrix(1 0 0 1 382.6561 215.0001)" class="st6 st7 st8">AeroPure</text>
+</svg>
